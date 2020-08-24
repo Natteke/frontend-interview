@@ -1,3 +1,4 @@
+// найти ошибки в выполнении задачи
 // https://gist.github.com/Crysp/6eabeba94fe067c09b011e99909b0193
 
 
