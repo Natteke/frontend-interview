@@ -21,6 +21,7 @@ for(var i = [];i.length < 3;i.push(1)){
 
 /*
     Ответ 1:
+    решение через замыкание аргумента в функции
 
     for(var i = [];i.length < 3;i.push(1)){
         ((z) => {
@@ -34,7 +35,7 @@ for(var i = [];i.length < 3;i.push(1)){
 
 /*
     Ответ 2:
-
+    решение через let
     for(var i = [];i.length < 3;i.push(1)){
         let z = [...i];
         setTimeout(() => {
