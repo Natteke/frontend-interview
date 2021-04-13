@@ -1,3 +1,5 @@
+var n = 0;
+
 function f(n) {
     n = 3;
 }

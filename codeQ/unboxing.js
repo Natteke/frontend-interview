@@ -3,6 +3,10 @@ a.anyProp = 1;
 // console.log(a.anyProp); // ???
 
 
+let a = new String("text");
+a.anyProp = 1;
+// console.log(a.anyProp);  // ???
+
 
 
 
